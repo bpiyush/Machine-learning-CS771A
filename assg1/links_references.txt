@@ -1,0 +1,14 @@
+Problem 1:
+
+Misclassification rate definition:
+https://www.uni-weimar.de/medien/webis/teaching/lecturenotes/machine-learning/unit-en-decision-trees-basics.pdf
+
+Why are we growing decision trees via entropy instead of the classification error?
+https://sebastianraschka.com/faq/docs/decisiontree-error-vs-entropy.html
+
+Problem 2:
+
+Consistency of nearest neighbor methods
+http://www.shivani-agarwal.net/Teaching/E0370/Aug-2011/Lectures/16.pdf
+
+https://cedar.buffalo.edu/~srihari/CSE555/Chap4.NearestNeighbor.pdf
