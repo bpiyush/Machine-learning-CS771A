@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Part 1: Dataset - binclass.txt}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{1a: Modeling positive and negative classes with different covariances}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{1b: Modeling positive and negative classes with same covariances}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{1c: Linear SVM Decision Boundary}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Part 2: Dataset - binclassv2.txt}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{2a: Modeling positive and negative classes with different covariances}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{2b: Modeling positive and negative classes with same covariances}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{2c: Linear SVM Decision Boundary}{section.2}% 8
