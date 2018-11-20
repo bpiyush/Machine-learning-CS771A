@@ -1,0 +1,7 @@
+\BOOKMARK [3][-]{subsubsection.0.0.1}{Case 1: Linear approximation}{}% 1
+\BOOKMARK [3][-]{subsubsection.0.0.2}{Case 2: Approximating ReLU}{}% 2
+\BOOKMARK [2][-]{subsection.0.1}{Optimizing using ALT-OPT}{}% 3
+\BOOKMARK [2][-]{subsection.0.2}{Part 1: PPCA using ALT-OPT}{}% 4
+\BOOKMARK [2][-]{subsection.0.3}{Part 2: kMeans Clustering}{}% 5
+\BOOKMARK [3][-]{subsubsection.0.3.1}{A] With PCA: 10 random initializations}{subsection.0.3}% 6
+\BOOKMARK [3][-]{subsubsection.0.3.2}{B] With t-SNE: 10 random initializations}{subsection.0.3}% 7
