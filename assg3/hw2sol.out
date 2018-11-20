@@ -1,0 +1,24 @@
+\BOOKMARK [2][-]{subsection.0.1}{Coordinate ascent algorithm sketch}{}% 1
+\BOOKMARK [2][-]{subsection.0.2}{Part 1: Estimating the conditional given current parameter estimates}{}% 2
+\BOOKMARK [2][-]{subsection.0.3}{Part 2: Expected CLL}{}% 3
+\BOOKMARK [2][-]{subsection.0.4}{Part 3: Estimation of parameters: M step}{}% 4
+\BOOKMARK [2][-]{subsection.0.5}{EM Algorithm steps:}{}% 5
+\BOOKMARK [2][-]{subsection.0.6}{Expected CLL}{}% 6
+\BOOKMARK [2][-]{subsection.0.7}{Updating the paramters}{}% 7
+\BOOKMARK [2][-]{subsection.0.8}{The EM algorithm}{}% 8
+\BOOKMARK [2][-]{subsection.0.9}{Part 1: Mixture of regression models}{}% 9
+\BOOKMARK [2][-]{subsection.0.10}{Part 2: ALT-OPT Algorithm}{}% 10
+\BOOKMARK [3][-]{subsubsection.0.10.1}{Estimating the latent variables fixing the parameters}{subsection.0.10}% 11
+\BOOKMARK [3][-]{subsubsection.0.10.2}{Estimating the parameters fixing the latent variables}{subsection.0.10}% 12
+\BOOKMARK [3][-]{subsubsection.0.10.3}{A Special case}{subsection.0.10}% 13
+\BOOKMARK [2][-]{subsection.0.11}{Part 3A: EM Algorithm}{}% 14
+\BOOKMARK [3][-]{subsubsection.0.11.1}{A. Computing the posterior}{subsection.0.11}% 15
+\BOOKMARK [3][-]{subsubsection.0.11.2}{B. Computing the expected CLL}{subsection.0.11}% 16
+\BOOKMARK [3][-]{subsubsection.0.11.3}{C. The Algorithm}{subsection.0.11}% 17
+\BOOKMARK [1][-]{section.1}{Part 3B: Particular case}{}% 18
+\BOOKMARK [1][-]{section.2}{Programming Problem 1}{}% 19
+\BOOKMARK [2][-]{subsection.2.1}{1. Kernel Ridge Regression}{section.2}% 20
+\BOOKMARK [2][-]{subsection.2.2}{2. Landmark-ridge Regression}{section.2}% 21
+\BOOKMARK [1][-]{section.3}{Programming Problem 2}{}% 22
+\BOOKMARK [2][-]{subsection.3.1}{1. Using Hand-crafted Features}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.2}{2. Using Kernels}{section.3}% 24

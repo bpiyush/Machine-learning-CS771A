@@ -1,0 +1,7 @@
+Part 1: Ridge regression
+Run ```python ridgereg.py```. This will output MSE for part 1a for varying lambdas. Further it will run for part 1b, i.e. for varying L's.
+Part 2: k-means
+Run ```python kmeans.py```. This will do the following:
+	1. Show visualization of data
+	2. Show clustering results for hand-crafted feature transformation.
+	3. For 10 iteration of randomly chosen L=1 points, it will run and show the results. 
